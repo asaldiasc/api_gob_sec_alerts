@@ -1,0 +1,1 @@
+Aplicacion basica de la api proporcionada oir el gobierno de chile sobre alertas y demases de ciberseguridad, en el codigo mostrado simplemente se hace la peticion a esta api para obtener la data sobre las alertas y se imprimen en pantalla en un formato json mas legible.
